@@ -47,5 +47,4 @@ A aplicação possui uma interface moderna e organizada, com:
 
 ---
 
-## 📂 Estrutura do Projeto
 
